@@ -1,0 +1,55 @@
+Z:\Desktop\Database M3\database M3\bin\database M3.dll.config
+Z:\Desktop\Database M3\database M3\bin\database M3.dll
+Z:\Desktop\Database M3\database M3\bin\database M3.pdb
+Z:\Desktop\Database M3\database M3\bin\roslyn\csc.exe
+Z:\Desktop\Database M3\database M3\bin\roslyn\csc.exe.config
+Z:\Desktop\Database M3\database M3\bin\roslyn\csc.rsp
+Z:\Desktop\Database M3\database M3\bin\roslyn\csi.exe
+Z:\Desktop\Database M3\database M3\bin\roslyn\csi.exe.config
+Z:\Desktop\Database M3\database M3\bin\roslyn\csi.rsp
+Z:\Desktop\Database M3\database M3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Desktop\Database M3\database M3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\Microsoft.Managed.Core.targets
+Z:\Desktop\Database M3\database M3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Desktop\Database M3\database M3\bin\roslyn\System.AppContext.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\System.Collections.Immutable.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\System.Console.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\System.Diagnostics.StackTrace.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\System.IO.Compression.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\System.IO.FileSystem.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\System.IO.Pipes.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\System.Security.AccessControl.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\System.Security.Claims.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\System.Security.Principal.Windows.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\System.Text.Encoding.CodePages.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\System.ValueTuple.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\System.Xml.ReaderWriter.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\System.Xml.XmlDocument.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\System.Xml.XPath.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\System.Xml.XPath.XDocument.dll
+Z:\Desktop\Database M3\database M3\bin\roslyn\vbc.exe
+Z:\Desktop\Database M3\database M3\bin\roslyn\vbc.exe.config
+Z:\Desktop\Database M3\database M3\bin\roslyn\vbc.rsp
+Z:\Desktop\Database M3\database M3\bin\roslyn\VBCSCompiler.exe
+Z:\Desktop\Database M3\database M3\bin\roslyn\VBCSCompiler.exe.config
+Z:\Desktop\Database M3\database M3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Desktop\Database M3\database M3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Desktop\Database M3\database M3\obj\Debug\database M3.csproj.CopyComplete
+Z:\Desktop\Database M3\database M3\obj\Debug\database M3.dll
+Z:\Desktop\Database M3\database M3\obj\Debug\database M3.pdb
+Z:\Desktop\Database M3\database M3\obj\Debug\database M3.csprojAssemblyReference.cache

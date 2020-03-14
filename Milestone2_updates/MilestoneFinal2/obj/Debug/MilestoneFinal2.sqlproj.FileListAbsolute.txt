@@ -1,0 +1,6 @@
+Z:\Desktop\MilestoneFinal2\MilestoneFinal2\bin\Debug\MilestoneFinal2.dacpac
+Z:\Desktop\MilestoneFinal2\MilestoneFinal2\bin\Debug\MilestoneFinal2.dll
+Z:\Desktop\MilestoneFinal2\MilestoneFinal2\bin\Debug\MilestoneFinal2.pdb
+Z:\Desktop\MilestoneFinal2\MilestoneFinal2\obj\Debug\MilestoneFinal2.sqlprojAssemblyReference.cache
+Z:\Desktop\MilestoneFinal2\MilestoneFinal2\obj\Debug\MilestoneFinal2.dll
+Z:\Desktop\MilestoneFinal2\MilestoneFinal2\obj\Debug\MilestoneFinal2.pdb
